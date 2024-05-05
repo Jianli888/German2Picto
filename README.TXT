@@ -14,9 +14,9 @@ Webapp_German2Picto                 # contains code for text-to-pictogram transl
 │   └── translator.py               # high-level class wrapping up process of text-to-pictogram translation
 ├── static 
 │   ├── data                        # data needed for text-to-pictogram translation
-│   │   ├── GN_V160                 # contains GermaNet data
+│   │   ├── GN_V160                 # contains GermaNet data !!!You will need to obtain license first.
 │   │   │   └── ...
-│   │   ├── METACOM_Symbole         # contains METACOM pictograms
+│   │   ├── METACOM_Symbole         # contains METACOM pictograms !!!You will need to obtain license first.
 │   │   │   └── ...
 │   │   ├── dictionary.csv          # look-up dictionary with direct links between tokens/lemmas and pictograms
 │   │   └── metacom_to_germanet.db  # database with pictogram-synset links
