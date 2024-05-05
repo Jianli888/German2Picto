@@ -1,0 +1,1004 @@
+lemma,token,tag,morph,picto,picto_bw
+,am besten,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\ambesten.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\ambestenSW.png
+,am längsten,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\laengste_amlaengsten.png,
+,am schlechtesten,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\amschlechtesten.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\amschlechtestenSW.png
+,auf der Stelle,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofort.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofortSW.png
+,Ballerinas,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\ballerinas.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\ballerinasSW.png
+,bis später,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\bisspaeter.png,
+,bitte,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\bitte_bitten.png,
+,da ist,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\daistFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\daist.png
+,danke,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\danke.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\dankeSW.png
+,das,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\das.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\dasSW.png
+,das ist,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\daistFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\daist.png
+,dem,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\dem.png,
+,den,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\den.png,
+,denen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\denen.png,
+,der,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\der.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\derSW.png
+,des,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\des.png,
+,dessen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dessen.png,
+,dich,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dich.png,
+,die,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\die.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\dieSW.png
+,diese,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\diese2.png,
+,diesem,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\diesem.png,
+,diesen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\diesen.png,
+,dieser,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dieser2.png,
+,dieses,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dieses2.png,
+,dir,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dir.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dirSW.png
+,du,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\du.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\duSW.png
+,ein,,{'Gender': 'Masc'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\ein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\einSW.png
+,ein,,{'Gender': 'Neut'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\ein2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\einSW2.png
+,einander,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\einander.png,
+,eine,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\eine.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\eineSW.png
+,einem,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\einem.png,
+,einen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\einen.png,
+,einer,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\einer.png,
+,eines,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Artikel\eines.png,
+,er,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\er.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\erSW.png
+,es,,{'Case': 'Nom'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\es.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\esSW.png
+,es,,{'Case': 'Acc'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\es_ak.png,
+,euch,,{'Case': 'Dat'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\euch.png,
+,euch,,{'Case': 'Acc'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\euch_ak1.png,
+,euer,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\euer.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\euerSW.png
+,eure,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\eure.png,
+,gib mir,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\gib_mir.png,
+,gibt es,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\gibtes.png,
+,gute Nacht,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\gutenacht.png,
+,guten Abend,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\gutenabend.png,
+,guten Morgen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\gutenmorgen2.png,
+,guten Tag,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\gutentag.png,
+,Halt !,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\halt_floskel.png,
+,ich,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ich.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ichSW.png
+,ich bin,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichbinmaedchen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichbin.png
+,ich spreche,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichspreche.png,
+,ich war,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichwar.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichwarSW.png
+,ihm,,{'Gender': 'Neut'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihm_baby.png,
+,ihm,,{'Gender': 'Masc'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihm_junge.png,
+,ihn,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihn.png,
+,ihnen,,"{'Person': '3', 'Number': 'Plur'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihnen.png,
+,Ihnen,,"{'Person': '2', 'Number': 'Sing'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihnen_direrwachsen.png,
+,ihr,PPER,"{'Case': 'Nom', 'Person': '2', 'Number': 'Plur'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihrSW.png
+,Ihr,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_deinerwachsen.png,
+,Ihre,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_deinerwachsen.png,
+,Ihrem,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_deinerwachsen.png,
+,Ihren,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_deinerwachsen.png,
+,Ihres,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_deinerwachsen.png,
+,ihr,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchenSW.png
+,ihre,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchenSW.png
+,ihren,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchenSW.png
+,ihrem,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchenSW.png
+,ihres,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihr_maedchenSW.png
+,ihr,PPER,"{'Case': 'Dat', 'Person': '3', 'Number': 'Sing', 'Gender': 'Fem'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\ihrwem_maedchen.png,
+,in die Schule,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\indieschule.png,
+,in Kürze,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\gleichinkuerze.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\gleichinkuerzeSW.png
+,keine Lust,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\keinenbock.png,
+,keinen Bock,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\keinenbock.png,
+,komm her,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\kommher2FB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\kommher.png
+,lass uns,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\lassuns.png,
+,lieber,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\lieber.png,
+,mich,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\mich.png,
+,mir,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\mir2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\mir2SW.png
+,mit wem,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\mitwem.png,
+,nach Hause,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\nachhause1.png,
+,nachhause,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\nachhause1.png,
+,niemand,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\niemand.png,
+,schlaf gut,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\schlafgut.png,
+,schönen Tag,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\schoenentagnoch.png,
+,schönes Wochenende,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\schoeneswochenende.png,
+,sie,,"{'Case': 'Acc', 'Person': '3', 'Number': 'Sing', 'Gender': 'Fem'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sie_ak_einzahl.png,
+,Sie,,"{'Case': 'Nom', 'Person': '2', 'Number': 'Sing'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sie_duerwachsen.png,
+,sie,,"{'Case': 'Nom', 'Person': '3', 'Number': 'Sing', 'Gender': 'Fem'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sie_einzahl.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sie_einzahlSW.png
+,sie,,"{'Case': 'Nom', 'Person': '3', 'Number': 'Plur'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sie_mehrzahl.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sie_mehrzahlSW.png
+,später,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\spaeter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\spaeterSW.png
+,Spielst du mit mir ?,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\spielstdumitmir.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\spielstdumitmirSW.png
+,stopp !,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verhalten\stopprot2.png,
+,Tomaten auf den Augen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\tomatenaufdenaugen.png,
+,träum schön,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\traeumwasschoenes.png,
+,Treppe hoch,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\treppesteigen.png,
+,Treppe rauf,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\treppesteigen.png,
+,Treppe runter,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\trepperunter.png,
+,tut mir Leid,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\tutmirleid_leidtun.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\tutmirleid_leidtunSW.png
+,uns,,"{'Case': 'Dat', 'Person': '1', 'Number': 'Plur'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\uns.png,
+,uns,,"{'Case': 'Acc', 'Person': '1', 'Number': 'Plur'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\uns_ak.png,
+,Viertel nach,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\viertelnach.png,
+,Viertel vor,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\viertelvordreiviertel.png,
+,Was gibt es Neues ?,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wasgibtesneues.png,
+,was soll das ?,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\woistproblem_wassolldas.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\woistproblem_wassolldasSW.png
+,weiss der Geier,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\weissdergeier.png,
+,weisst du was ?,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\weisstduwas.png,
+,weitere Fragen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\weiterfragen.png,
+,welche,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\welche.png,
+,welchem,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\welchem.png,
+,welchen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\welchen.png,
+,welcher,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\welcher.png,
+,welches,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\welches.png,
+,wem,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wem.png,
+,wen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wen.png,
+,weniger,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weniger2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weniger2SW.png
+,wer,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wer.png,
+,wer ist das ?,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\weristdas.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\weristdasSW.png
+,wie bitte,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiebitte.png,
+,wie war,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiewares.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiewaresSW.png
+,zu spät,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\leiderzuspaet.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\leiderzuspaetSW.png
+,zum Beispiel,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\zumbeispiel.png,
+aua,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\aua.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\auaSW.png
+Aufwachraum,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\aufwachraum.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\aufwachraumSW.png
+Handverband,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\handverband.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\handverbandSW.png
+Infusionsständer,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\infusionsstaenderSW.png,
+Kühlkissen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\kuehlkissen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Arzt_Gesundheit\kuehlkissenSW.png
+Gefrierdose,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Behaelter_Taschen\gefrierdosebehaelter.png,
+Vorlesestift,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buch_Zeitung\vorlesestift.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buch_Zeitung\vorlesestiftSW.png
+Folienstift,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buero_Basteln\folienstift.png,
+Klebestift,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buero_Basteln\klebestiftrot.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buero_Basteln\klebestift.png
+Leimstift,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buero_Basteln\klebestiftrot.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buero_Basteln\klebestift.png
+Pricknadel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buero_Basteln\pricknadel_rot.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buero_Basteln\pricknadelSW.png
+Cloud,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Computer\cloud.png,
+Firewire,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Computer\firewireSW.png,
+FireWire,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Computer\firewireSW.png,
+gut Freund,,"{'gut': 'ADJA', 'Freund': 'NN'}",{'gut': {'Degree': 'Sup'}},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\bester_bestefreundin2.png,
+gut Freundin,,"{'gut': 'ADJA', 'Freundin': 'NN'}",{'gut': {'Degree': 'Sup'}},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\bester_bestefreundin2.png,
+ehrlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\ehrlich.png,
+gekocht,,ADJA,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\gar.png,
+kochen,,VVPP,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\gar.png,
+laut,,,{'Degree': 'Cmp'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\lauterFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\lauter.png
+leise,,,{'Degree': 'Cmp'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\leiserFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\leiser.png
+schlecht,,,{'Degree': 'Cmp'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\schlechter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\schlechterSW.png
+ziemlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Eigenschaften_Emotionen\ziemlich.png,
+200 Franken,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Einkaufen\chf_200franken.png,
+200 Euro,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Einkaufen\euro200.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Einkaufen\euro200SW.png
+500 Euro,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Einkaufen\euro500.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Einkaufen\euro200SW.png
+Aufsitzrasenmäher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\aufsitzrasenmaeher.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\aufsitzrasenmaeherSW.png
+Rasentraktor,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\aufsitzrasenmaeher.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\aufsitzrasenmaeherSW.png
+Schneepflug,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\schneeraeumfahrzeug.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\schneeraeumfahrzeugSW.png
+Schneeräumfahrzeug,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\schneeraeumfahrzeug.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fahrzeuge\schneeraeumfahrzeugSW.png
+Frau Holle,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fantasie\frau_holle.png,
+Pippi,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fantasie\pippi.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fantasie\pippiSW.png
+Pippi Langstrumpf,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fantasie\pippi.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fantasie\pippiSW.png
+Rapunzel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fantasie\rapunzel2.png,
+Fourth of July,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Feste\independenceday2_engl.png,
+Independence Day,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Feste\independenceday2_engl.png,
+Nikolausstiefel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Feste\nikolausstiefel.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Feste\nikolausstiefelSW.png
+Knecht Ruprecht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Feste\schmutzli_knechtruprecht2.png,
+Schmutzli,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Feste\schmutzli_knechtruprecht2.png,
+Thanksgiving,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Feste\thanksgiving_engl.png,
+bis wann,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\biswann.png,
+mitmachen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\moechtemitmachen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\moechtemitmachenSW.png
+seit wann,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\seitwann.png,
+wann,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wann.png,
+wann essen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wannessen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wannessenSW.png
+wann fahren,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wannfahrenwirSW.png,
+wann sehen ich sich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wannsehenwiruns.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wannsehenwirunsSW.png
+wann treffen ich sich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wannsehenwiruns.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wannsehenwirunsSW.png
+warum,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\warum.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\warumSW.png
+was,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\was.png,
+was machen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wasmachstdu.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wasmachstduSW.png
+was möchten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wasmoechtestdu.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wasmoechtestduSW.png
+was spielen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wasspielen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wasspielenSW.png
+welch Spiel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\welchesspielen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\welchesspielenSW.png
+weshalb,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\weshalb.png,
+wessen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wessen.png,
+wie,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wie.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieSW.png
+wie fühlen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiefuehlts.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiefuehltsSW.png
+wie gehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiegehtesdir.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiegehtesdirSW.png
+wie heissen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieheisstdu.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieheisstduSW.png
+wie lang,,{'lang': 'ADV'},,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wielange.png,
+wieso,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieso.png,
+wie spät,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiespaetistes.png,
+wie spielen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiespieltmandas.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiespieltmandasSW.png
+wie stehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiestehts.png,
+was stehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wiestehts2.png,
+wie viel,,{'viel': 'PIS'},,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieviel.png,
+wie viel,,{'viel': 'PIAT'},,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieviele.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wievieleSW.png
+was kosten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wievielkostet.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wievielkostetSW.png
+wie viel kosten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wievielkostet.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wievielkostetSW.png
+wie weit,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieweit2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wieweit2SW.png
+wo,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wo.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\woSW.png
+woher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\woher.png,
+wohin,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wohin2.png,
+Problem ?,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\woistproblem_wassolldas.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\woistproblem_wassolldasSW.png
+womit,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\womit.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\womitSW.png
+worauf,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\worauf.png,
+woraus,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\woraus.png,
+worin,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\worin.png,
+worüber,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\worueber.png,
+worum,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\worum.png,
+worunter,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\worunter.png,
+wovon,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wovon.png,
+wovor,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wovor.png,
+wofür,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wozu.png,
+wozu,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Fragen\wozu.png,
+arabisch Emirat,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geografie\arabischeemirateVAE.png,
+vereinigt arabisch Emirat,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geografie\arabischeemirateVAE.png,
+Apfelteiler,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\apfelteiler.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\apfelteilerSW.png
+Salatbesteck,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\salatbesteck2.png,
+Pizzaschneider,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigradpizzaschneider.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigradpizzaschneiderSW.png
+Teigrad,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigradpizzaschneider.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigradpizzaschneiderSW.png
+Teigrolle,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigrolle.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigrolleSW.png
+Wallholz,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigrolle.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigrolleSW.png
+Teigschaber,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\teigschaberrot.png,
+Tortenring,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Geschirr\tortenring.png,
+Kaminanzünder,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\kaminanzuender.png,
+mein Zimmer,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\meinzimmer.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\meinzimmerSW.png
+Treppe steigen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\treppesteigen.png,
+Treppensteigen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Haus\treppesteigen.png,
+Apfelstecher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hausarbeit\apfelstecher.png,
+Eiertrenner,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hausarbeit\eiertrenner.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hausarbeit\eiertrennerSW.png
+Geschirrspültab,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hausarbeit\geschirrspueltabs.png,
+Schuhputzbürste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hausarbeit\schuhputzbuerste.png,
+Schuhputzzeug,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hausarbeit\schuhputzzeug.png,
+Zwiebelhacker,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hausarbeit\zwiebelhacker.png,
+Augensteuerung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\augensteuerung.png,
+BIGmack,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\bigmack1farb.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\bigmack1.png
+Bildkarte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\bildkartenFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\bildkarten.png
+Rollstuhlbremse,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\bremse.png,
+Kommunikationstafel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\Kommunikationstafel.png,
+NF-Walker,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\nfwalker2.png,
+Rollfiets,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\rollfiets.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\rollfietsSW.png
+Talker,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\talker4.png,
+Talkerhalterung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\talkerhalterung.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\talkerhalterungSW.png
+Tracheostoma,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Hilfsmittel\tracheostoma2.png,
+Ballerina,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\ballerina.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\ballerinaSW.png
+Pullunder,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\pullunder.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\pullunderSW.png
+Regenhose,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\regenhose.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\regenhoseSW.png
+Regenoverall,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\regenoverall.png,
+Strampler,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\strampleroverall.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleidung_Accessoires\strampleroverallSW.png
+ab,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ab2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ab2SWrot.png
+aber,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\aber.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\aberSW.png
+allerdings,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\allerdings_indeed_engl.png,
+als,,KOKOM,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\als.png,
+als,,KOUS,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\als2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\als2SW.png
+also,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\also.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\alsoSW.png
+am,,APPRART,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\am.png,
+an,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\an.png,
+andernorts,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\andererort_woanders.png,
+anderorts,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\andererort_woanders.png,
+anderswo,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\andererort_woanders.png,
+woanders,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\andererort_woanders.png,
+jemand ander,,"{'jemand': 'PIS', 'ander': 'PIS'}",,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\anders_jemandanderes.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\anders_jemandanderesSW.png
+auch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\auch.png,
+auf,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\auf2.png,
+aus,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\aus.png,
+aussen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\aussen2.png,
+äusser,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\aussen2.png,
+ausser,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ausser.png,
+ausserdem,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ausserdem.png,
+bei,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\bei.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\beiSW.png
+beim,,APPRART,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\beim.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\beimSW.png
+bevor,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\bevor.png,
+bis,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\bis.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\bisSW.png
+bisschen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\bisschen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\bisschenSW.png
+bloss,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\bloss.png,
+da,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\da.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\daSW.png
+dabei,,PTKVZ,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dabei.png,
+dafür,,PROAV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dafuer.png,
+degegen,,PROAV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dagegen.png,
+damit,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\damit.png,
+sodass,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\damit.png,
+daneben,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\daneben.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\danebenSW.png
+darum,,PROAV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\darum.png,
+dass,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dass.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dassSW.png
+davor,,PROAV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\davor.png,
+denn,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\denn.png,
+deshalb,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\deshalb.png,
+desto,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\desto.png,
+deswegen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\deswegen.png,
+doch !,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\doch.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dochSW.png
+"doch ,",,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\doch.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dochSW.png
+doch .,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\doch.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dochSW.png
+dort,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\dort.png,
+darauf,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drauf.png,
+drauf,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drauf.png,
+draussen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\draussen2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\draussen2SW.png
+drinnen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drinnen2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drinnen2SW.png
+drüben,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drueben.png,
+darüber,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drueber.png,
+drüber,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drueber.png,
+darunter,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drunter.png,
+drunter,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\drunter.png,
+durch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\durch.png,
+eben,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\eben.png,
+eigentlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\eigentlich.png,
+einig,,PIAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\einige.png,
+einmal,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\einmal.png,
+entweder,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\entweder.png,
+etwas,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\etwas.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\etwasSW.png
+falls,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\falls.png,
+fast,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\fast.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\fastSW.png
+fertig,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\fertig1.png,
+für,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\fuer.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\fuerSW.png
+ganz,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ganz.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ganzSW.png
+gegen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\gegen.png,
+geradeaus,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\geradeaus.png,
+gern,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\gern.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\gernSW.png
+gerne,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\gern.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\gernSW.png
+her,,PTKVZ,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\her.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\herSW.png
+heraus,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\heraus.png,
+herein,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\herein.png,
+hier,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hier2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hier2SW.png
+hin,,PTKVZ,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hin.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hinSW.png
+hinaus,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hinausraus.png,
+raus,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hinausraus.png,
+hinein,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hineinrein.png,
+rein,,PTKVZ,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hineinrein.png,
+hinten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hinten1.png,
+hinter,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hinter.png,
+hoffentlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\hoffentlich.png,
+im,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\im.png,
+in,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\in.png,
+innen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\innen2.png,
+inner,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\innen2.png,
+ja,,PTKANT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ja.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\jaSW.png
+je,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\je2.png,
+jed,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\jede.png,
+kaum,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\kaum.png,
+leider,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\leider.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\leiderSW.png
+link,,ADJA,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\links1.png,
+links,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\links1.png,
+manch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\manche.png,
+manchmal,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\manchmal.png,
+mehr,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\mehr2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\mehr2SW.png
+mehrer,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\mehrere.png,
+mehrmals,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\mehrmals.png,
+meinetwegen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\meinetwegen.png,
+meist,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\meiste.png,
+mit,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\mit2.png,
+mitten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\mittenmittendrin.png,
+mittendrin,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\mittenmittendrin.png,
+nach,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nach.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nachSW.png
+nachdem,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nachdem.png,
+nacher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nachher.png,
+nämlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\naemlich.png,
+naja,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\naja.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\najaSW.png
+neben,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\neben.png,
+nein,,PTKANT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\neinSW.png
+kein,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nichtkein.png,
+nicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nichtkein.png,
+nichts,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nichts.png,
+noch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\noch.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nochSW2.png
+nochmal,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nochmal2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nochmal2SW.png
+noch nicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nochnicht.png,
+nur,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\nur2.png,
+ob,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ob.png,
+oben,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\oben1.png,
+ober,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\oben1.png,
+obwohl,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\obwohl2.png,
+oder,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\oder2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\oder2SW.png
+ohne,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ohne.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ohneSW.png
+heran,,PTKVZ,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ran_heran.png,
+ran,,PTKVZ,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ran_heran.png,
+hinauf,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\raufSW.png,
+rauf,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\raufSW.png,
+recht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\rechts1.png,
+rechts,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\rechts1.png,
+rückwärts,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\rueckwaerts.png,
+herunter,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\runterSW.png,
+runter,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\runterSW.png,
+sämtlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\saemtliche.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\saemtlicheSW.png
+bereits,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\schon.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\schonSW.png
+schon,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\schon.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\schonSW.png
+sehr,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\sehr.png,
+seit,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\seit.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\seitSW.png
+selbst,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\selbst.png,
+so,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\so.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\soSW.png
+sogar,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\sogar.png,
+solch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\solche.png,
+sondern,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\sondern.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\sondernSW.png
+sonst,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\sonst.png,
+sowieso,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\sowieso.png,
+sozusagen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\sozusagen.png,
+tatsächlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\tatsaechlich.png,
+total,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\total.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\totalSW.png
+dennoch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\trotzdem2.png,
+trotzdem,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\trotzdem2.png,
+über,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ueber.png,
+überall,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ueberall.png,
+überhaupt,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ueberhauptSW.png,
+übrigens,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\uebrigens.png,
+herum,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\umherum.png,
+um,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\umherum.png,
+und,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\und2.png,
+ungern,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ungern.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\ungernSW.png
+unten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\unten1.png,
+unter,,ADJA,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\unten1.png,
+unter,,APPR,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\unter.png,
+unterwegs,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\unterwegs.png,
+viel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\viel2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\viel2SW.png
+vielleicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vielleicht.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vielleichtSW.png
+vom,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vom.png,
+von,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\von.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vonSW.png
+vor,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vor.png,
+vorbei,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vorbei.png,
+vorher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vorher.png,
+vorn,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vorn1.png,
+vorne,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vorn1.png,
+vorwärts,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\vorwaerts.png,
+während,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\waehrend.png,
+weder,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weder.png,
+weg,,PTKVZ,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weg3.png,
+weg,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weg3.png,
+wegen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wegen.png,
+weil,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weil.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weilSW.png
+wissen nicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weissnicht2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\weissnicht2SW.png
+wenigstens,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wenigstens.png,
+wenn,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wenn.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wennSW.png
+wieder,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wieder.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wiederSW.png
+zurück,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wieder.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\wiederSW.png
+übervoll,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\zu_viel.png,
+zu viel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\zu_viel.png,
+zum,,APPRART,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\zum.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\zumSW.png
+zur,,APPRART,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\zur.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\zurSW.png
+zwischen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Kleine_Worte\zwischen.png,
+Haargummi,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Koerperpflege\haargummi.png,
+Hornhautraspel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Koerperpflege\hornhautraspel.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Koerperpflege\hornhautraspelSW.png
+Hygienebeutel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Koerperpflege\hygienebeutel.png,
+nasenbohren,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Koerperpflege\nasebohrenpopeln.png,
+popeln,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Koerperpflege\nasebohrenpopeln.png,
+ach,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ach.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\achSW.png
+achso,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\achso.png,
+Achtung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\achtung.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\achtungSW.png
+auf Wiedersehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\aufwiedersehen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\aufwiedersehenSW.png
+bis gleich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\bisgleich.png,
+bis morgen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\bismorgen.png,
+boah,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\boah.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\boahSW.png
+brauchen Hilfe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\brauchehilfe.png,
+brauchen kein Hilfe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\brauchekeinehilfe.png,
+buh,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\buh.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\buhSW.png
+ciao,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ciao.png,
+haben ein Vogel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\derdiehatvogel.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\derdiehatvogelSW.png
+spinnen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\derdiespinnt.png,
+haben Knall,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\derhatknall.png,
+sein an der Reihe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\dubistdran.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\dubistdranSW.png
+sein dran,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\dubistdran.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\dubistdranSW.png
+eh,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\eh_sowiesoohnehin.png,
+ohnehin,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\eh_sowiesoohnehin.png,
+sein einer Meinung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\einermeinungsein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\einermeinungseinSW.png
+sein sich einig,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\einermeinungsein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\einermeinungseinSW.png
+sein der gleich Meinung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\einermeinungsein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\einermeinungseinSW.png
+entschuldigen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\entschuldigungFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\entschuldigung.png
+Entschuldigung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\entschuldigungFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\entschuldigung.png
+es ist,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\esist.png,
+es reicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\esreicht.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\esreichtSW.png
+reichen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\esreicht.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\esreichtSW.png
+ey,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ey.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\eySW.png
+falsch verstehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\falschverstanden2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\falschverstandenSW.png
+glauben ich nicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\glaubenicht_sowaresnicht.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\glaubenicht_sowaresnichtSW.png
+gleichfalls,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\gleichfallsSW.png,
+hallo,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\hallo2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\hallo.png
+hi,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\hi.png,
+ich auch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichauchFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichauch.png
+möchten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichmoechtemaedchen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichmoechte1.png
+möchten nicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichmoechtenichtFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichmoechtenicht.png
+wissen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ichweisses.png,
+igitt,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\igitteklig_floskel.png,
+Jammerlappen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\jammerlappen.png,
+klingen wie,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\klingtwie.png,
+Knallerbse,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\knallerbse.png,
+in Ruhe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\lassmichinruhe2FB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\lassmichinruhe.png
+mmh,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\mmh.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\mmhSW.png
+moin,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\moin.png,
+Motzgurke,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\motzgurke.png,
+müssen gehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\musslos.png,
+müssen los,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\musslos.png,
+nicht OK,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\nichtok2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\nichtok2SW.png
+nicht okay,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\nichtok2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\nichtok2SW.png
+oh,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\oh.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ohSW.png
+oha,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\oha.png,
+oje,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\oje.png,
+sehr geehrt,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\sehrgeehrte.png,
+sorry,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\sorry.png,
+Stinksocke,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\stinksocke.png,
+tschüss,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\tschuess2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\tschuess.png
+leidtun,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\tutmirleid_leidtun.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\tutmirleid_leidtunSW.png
+ups,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\ups.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\upsSW.png
+verdammt,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\verdammt.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\verdammtSW.png
+Warmduscher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\warmduscher.png,
+wehe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\wehe.png,
+Weichei,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\weichei.png,
+willkommen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\willkommen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\willkommenSW.png
+wow,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\wow.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\wowSW.png
+yeah,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Konversation_Interaktion\yeah.png,
+Apfelhälfte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\apfelhaelfte.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\apfelhaelfteSW.png
+bio,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\bio2.png,
+Chicken Nuggets,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\chickennuggets.png,
+Chicken-Nuggets,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\chickennuggets.png,
+Donut,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\donut.png,
+Stracciatella,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\eisstracciatella.png,
+Cornet,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\eistuete.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\eistueteSW.png
+Eistüte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\eistuete.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\eistueteSW.png
+Eiswaffel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\eiswaffel.png,
+Fruchtzwerg,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\fruchtzwerg.png,
+Gemüsebratling,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\gemuesebratling.png,
+Hackbällchen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\hackfleischbaellchen.png,
+Hackfleischbällchen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\hackfleischbaellchen.png,
+halal,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\halalSW.png,
+Hummus,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\hummus.png,
+Lebkuchenmann,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\lebkuchenmann.png,
+Milchschnitte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\milchschnitte.png,
+Pomelo,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\pomelo.png,
+Rahmfestiger,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\sahnesteif.png,
+Sahnesteif,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\sahnesteif.png,
+Stieleis,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\stieleis1.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\stieleis1SW.png
+Tortellini,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Essen\tortellini.png,
+Apfelschorle,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Trinken\apfelschorle.png,
+Schorle,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Lebensmittel_Trinken\apfelschorle.png,
+Boomwhacker,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Musik\Boomwhacker2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Musik\Boomwhacker2SW.png
+Djembe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Musik\djembe.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Musik\djembeSW.png
+Klangstab,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Musik\klangstab.png,
+Beschwerdebriefkasten,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Politik\beschwerdebriefkasten.png,
+Brexit,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Politik\brexit.png,
+ander,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\andere_anderer_anderes.png,
+dein,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\deinSW.png
+,dein,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\deinSW.png
+,deine,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\deinSW.png
+,deinen,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\deinSW.png
+,deiner,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\deinSW.png
+,deines,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\deinSW.png
+,deinem,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\dein.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\deinSW.png
+irgend,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\irgend_irgendein.png,
+irgendein,,,{'Gender': 'Masc'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\irgend_irgendein.png,
+irgendein,,,{'Gender': 'Masc'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\irgend_irgendein.png,
+irgendein,,,{'Gender': 'Fem'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\irgendeine.png,
+irgendjemand,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\irgendjemand.png,
+jemand,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\jemand.png,
+jen,,,{'Number': 'Plur'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\jene_mehrzahl.png,
+man,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\man.png,
+mein,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\mein2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\mein2SW.png
+Pronomen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\pronomen.png,
+sein,,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_junge.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_jungeSW.png
+,sein,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_junge.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_jungeSW.png
+,seine,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_junge.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_jungeSW.png
+,seinen,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_junge.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_jungeSW.png
+,seiner,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_junge.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_jungeSW.png
+,seines,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_junge.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_jungeSW.png
+,seinem,PPOSAT,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_junge.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sein_jungeSW.png
+derselbe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\selb_selbe.png,
+selbe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\selb_selbe.png,
+sich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\sich.png,
+unser,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\unser.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\unserSW.png
+wir,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\wir.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\wirSW.png
+,wir,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\wir.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Pronomen\wirSW.png
+Josef,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Religion\josef.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Religion\josefSW.png
+Krankenweihe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Religion\krankenweihe.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Religion\krankenweiheSW.png
+Ämterplan,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\aemterplan.png,
+Einzelförderung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\einzelfoerderung1.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\einzelfoerderung1SW.png
+Einzelplatz,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\einzelplatz.png,
+Eurythmie,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\eurythmie.png,
+Mitteilungsheft,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\mitteilungsheft.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Schule_Foerdereinrichtung\mitteilungsheftSW.png
+einfach Sprache,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Sonstiges\logo_einfachesprache_blauweiss.png,
+leicht Sprache,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Sonstiges\logo_leichtesprache_blauweiss.png,
+Bobbycar,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\bobbycar.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\bobbycarSW.png
+Bügelperle,,,{'Number': 'Sing'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\buegelperle.png,
+Bügelperle,,,{'Number': 'Plur'},METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\buegelperlen.png,
+Farbwürfel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\farbwuerfel.png,
+Fidget Spinner,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\fidgetspinner_blau.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\fidgetspinnerSW.png
+Uno,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\kartenspieluno.png,
+UNO,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\kartenspieluno.png,
+Kugelbahn,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\kugelbahn.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\kugelbahnSW.png
+Netzschaukel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\netzschaukel1.png,
+Schwimmreif,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\schwimmring.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\schwimmringSW.png
+Schwimmreifen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\schwimmring.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\schwimmringSW.png
+Schwimmring,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\schwimmring.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Spielen\schwimmringSW.png
+gelb Karte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Sport\gelbekarte.png,
+rote Karte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Sport\rotekarte.png,
+Startklappe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Sport\startklappe.png,
+Autismustherapie,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\autismustherapie.png,
+Bällebad,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\baellebad2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\baellebad2SW.png
+Bohnenbad,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\bohnenbad.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\bohnenbadSW.png
+Lernschere,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\lernschere.png,
+Motopädie,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\motopaedie.png,
+Sehförderung,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\sehfoerderung.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\sehfoerderungSW.png
+Sitzsack,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\sitzsackrot.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Therapie\sitzsackSW.png
+törö,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\elefant_toeroe.png,
+quak,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\frosch_quak.png,
+Gassi gehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\gassigehen.png,
+Hund ausführen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\gassigehen.png,
+spazieren führen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\gassigehen.png,
+wau,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\hund_wau.png,
+Hundespielzeug,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\hundespielzeug.png,
+Pfotenabdruck,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\pfotenabdruckSW.png,
+piep,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Tiere\vogel_piep.png,
+Filmklappe,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\TV_Audio_Foto\Filmklappe.png,
+Blasrüssel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\lufttroete.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\lufttroeteSW.png
+Luftrüssel,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\lufttroete.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\lufttroeteSW.png
+Rolltröte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\lufttroete.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\lufttroeteSW.png
+Furzgeräusch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\pupsgeraeusch.png,
+Pupsgeräusch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\pupsgeraeusch.png,
+Sitztanz,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\sitztanz.png,
+Wimpelkette,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\wimpelkette.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Urlaub_Spass\wimpelketteSW.png
+auf der Schoss,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\aufdemschoss.png,
+können,,"{'VVFIN', 'VMFIN', 'VVIMP', 'VVINF', 'VVIZU', 'VMINF', 'VVPP', 'VMPP'}",,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\koennen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\koennenSW.png
+matschen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\matschen.png,
+sein,,"{'VVFIN', 'VAFIN', 'VVIMP', 'VAIMP', 'VVINF', 'VVIZU', 'VAINF', 'VVPP', 'VAPP'}",,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\sein1.png,
+verstehen nicht,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\verstehennichtFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\verstehennicht.png
+nicht verstehen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\verstehennichtFB.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\verstehennicht.png
+sein,,,"{'Mood': 'Sub', 'Tense': 'Past'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\waeren2.png,
+sein,,,"{'Mood': 'Ind', 'Tense': 'Past'}",METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Verben\waren1.png,
+Schneegewitter,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Wetter_Himmel\schneegewitter.png,
+dreizehnte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\13dreizehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\13dreizehnter.png
+13.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\13dreizehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\13dreizehnter.png
+vierzehnte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\14vierzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\14vierzehnter.png
+14.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\14vierzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\14vierzehnter.png
+fünfzehnte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\15fuenfzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\15fuenfzehnter.png
+15.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\15fuenfzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\15fuenfzehnter.png
+sechzehnte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\16sechszehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\16sechszehnter.png
+16.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\16sechszehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\16sechszehnter.png
+siebzehnte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\17siebzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\17siebzehnter.png
+17.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\17siebzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\17siebzehnter.png
+achtzehnte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\18achtzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\18achtzehnter.png
+18.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\18achtzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\18achtzehnter.png
+neunzehnte,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\19neunzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\19neunzehnter.png
+19.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\19neunzehnter.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\19neunzehnter.png
+2009,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2009.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2009.png
+2010,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2010.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2010.png
+2011,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2011.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2011.png
+2012,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2012.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2012.png
+2013,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2013.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2013.png
+2014,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2014.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2014.png
+2015,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2015.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2015.png
+2016,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2016.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2016.png
+2017,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2017.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2017.png
+2018,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2018.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2018.png
+2019,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2019.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2019.png
+2020,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2020.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2020.png
+2021,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2021.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2021.png
+2022,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2022.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2022.png
+2023,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2023.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2023.png
+2024,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2024.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2024.png
+2025,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2025.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2025.png
+2026,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2026.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2026.png
+2027,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2027.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2027.png
+2028,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2028.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2028.png
+2029,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2029.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\2029.png
+zwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\20zwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\20zwanzigster.png
+20.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\20zwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\20zwanzigster.png
+einundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\21einundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\21einundzwanzigster.png
+21.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\21einundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\21einundzwanzigster.png
+zweiundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\22zweiundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\22zweiundzwanzigster.png
+22.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\22zweiundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\22zweiundzwanzigster.png
+dreiundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\23dreiundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\23dreiundzwanzigster.png
+23.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\23dreiundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\23dreiundzwanzigster.png
+vierundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\24vierundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\24vierundzwanzigster.png
+24.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\24vierundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\24vierundzwanzigster.png
+fünfundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\25fuenfundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\25fuenfundzwanzigster.png
+25.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\25fuenfundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\25fuenfundzwanzigster.png
+sechsundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\26sechsundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\26sechsundzwanzigster.png
+26.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\26sechsundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\26sechsundzwanzigster.png
+siebenundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\27siebenundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\27siebenundzwanzigster.png
+27.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\27siebenundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\27siebenundzwanzigster.png
+achtundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\28achtundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\28achtundzwanzigster.png
+28.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\28achtundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\28achtundzwanzigster.png
+neunundzwanzigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\29neunundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\29neunundzwanzigster.png
+29.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\29neunundzwanzigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\29neunundzwanzigster.png
+dreissigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\30dreissigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\30dreissigster.png
+30.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\30dreissigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\30dreissigster.png
+einunddreissigste,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\31einunddreissigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\31einunddreissigster.png
+31.,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\31einunddreissigster.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zahlen_Rechnen\31einunddreissigster.png
+abends,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\abends.png,
+bald,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\bald.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\baldSW.png
+bisher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\bisher.png,
+damals,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\damals.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\damalsSW.png
+danach,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\danach.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\danachSW.png
+dann,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\dann.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\dannSW.png
+nachher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\dann.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\dannSW.png
+eher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\eher.png,
+endlich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\endlich.png,
+erst,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\erstzuerst.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\erstzuerstSW.png
+zuerst,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\erstzuerst.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\erstzuerstSW.png
+früher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\fruehervergangenheit.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\fruehervergangenheitSW.png
+gestern,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\gestern.png,
+gleich,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\gleichinkuerze.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\gleichinkuerzeSW.png
+halb,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\halb.png,
+heute,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\heute.png,
+immer,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\immer.png,
+inzwischen,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\inzwischen.png,
+irgendwann,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\irgendwann.png,
+jemals,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jemals_ever.png,
+augenblicklich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofort.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofortSW.png
+jetzt,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofort.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofortSW.png
+sofort,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofort.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\jetztsofortSW.png
+längst,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\laengst2.png,
+letztens,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\letztens.png,
+meistens,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\meistens.png,
+mittags,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\mittags.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\mittagsSW.png
+morgen,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\morgen.png,
+morgens,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\morgens2.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\morgens2SW.png
+nach,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\nach_zeit.png,
+nachts,,ADV,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\nacht_zeit.png,
+neulich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\neulich.png,
+nie,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\nieniemals2.png,
+niemals,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\nieniemals2.png,
+nun,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\nun.png,
+oft,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\oft.png,
+schliesslich,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\schliesslich.png,
+solange,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\solange.png,
+1:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_00.png
+1:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_05.png
+1:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_10.png
+1:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_15.png
+1:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_20.png
+1:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_25.png
+1:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_30.png
+1:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_35.png
+1:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_40.png
+1:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_45.png
+1:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_50.png
+1:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_55.png
+2:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_00.png
+2:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_05.png
+2:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_10.png
+2:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_15.png
+2:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_20.png
+2:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_25.png
+2:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_30.png
+2:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_35.png
+2:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_40.png
+2:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_45.png
+2:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_50.png
+2:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_55.png
+3:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_00.png
+3:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_05.png
+3:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_10.png
+3:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_15.png
+3:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_20.png
+3:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_25.png
+3:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_30.png
+3:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_35.png
+3:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_40.png
+3:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_45.png
+3:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_50.png
+3:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_55.png
+4:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_00.png
+4:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_05.png
+4:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_10.png
+4:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_15.png
+4:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_20.png
+4:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_25.png
+4:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_30.png
+4:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_35.png
+4:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_40.png
+4:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_45.png
+4:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_50.png
+4:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_55.png
+5:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_00.png
+5:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_05.png
+5:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_10.png
+5:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_15.png
+5:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_20.png
+5:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_25.png
+5:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_30.png
+5:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_35.png
+5:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_40.png
+5:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_45.png
+5:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_50.png
+5:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_55.png
+6:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_00.png
+6:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_05.png
+6:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_10.png
+6:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_15.png
+6:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_20.png
+6:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_25.png
+6:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_30.png
+6:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_35.png
+6:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_40.png
+6:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_45.png
+6:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_50.png
+6:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_55.png
+7:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_00.png
+7:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_05.png
+7:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_10.png
+7:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_15.png
+7:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_20.png
+7:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_25.png
+7:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_30.png
+7:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_35.png
+7:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_40.png
+7:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_45.png
+7:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_50.png
+7:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_55.png
+8:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_00.png
+8:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_05.png
+8:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_10.png
+8:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_15.png
+8:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_20.png
+8:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_25.png
+8:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_30.png
+8:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_35.png
+8:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_40.png
+8:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_45.png
+8:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_50.png
+8:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_55.png
+9:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_00.png
+9:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_05.png
+9:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_10.png
+9:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_15.png
+9:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_20.png
+9:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_25.png
+9:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_30.png
+9:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_35.png
+9:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_40.png
+9:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_45.png
+9:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_50.png
+9:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_55.png
+10:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_00.png
+10:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_05.png
+10:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_10.png
+10:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_15.png
+10:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_20.png
+10:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_25.png
+10:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_30.png
+10:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_35.png
+10:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_40.png
+10:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_45.png
+10:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_50.png
+10:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_55.png
+11:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_00.png
+11:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_05.png
+11:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_10.png
+11:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_15.png
+11:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_20.png
+11:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_25.png
+11:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_30.png
+11:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_35.png
+11:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_40.png
+11:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_45.png
+11:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_50.png
+11:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_55.png
+12:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_00.png
+12:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_05.png
+12:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_10.png
+12:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_15.png
+12:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_20.png
+12:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_25.png
+12:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_30.png
+12:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_35.png
+12:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_40.png
+12:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_45.png
+12:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_50.png
+12:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_12_55.png
+13:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_00.png
+13:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_05.png
+13:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_10.png
+13:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_15.png
+13:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_20.png
+13:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_25.png
+13:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_30.png
+13:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_35.png
+13:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_40.png
+13:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_45.png
+13:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_50.png
+13:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_01_55.png
+14:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_00.png
+14:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_05.png
+14:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_10.png
+14:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_15.png
+14:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_20.png
+14:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_25.png
+14:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_30.png
+14:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_35.png
+14:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_40.png
+14:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_45.png
+14:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_50.png
+14:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_02_55.png
+15:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_00.png
+15:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_05.png
+15:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_10.png
+15:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_15.png
+15:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_20.png
+15:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_25.png
+15:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_30.png
+15:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_35.png
+15:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_40.png
+15:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_45.png
+15:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_50.png
+15:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_03_55.png
+16:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_00.png
+16:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_05.png
+16:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_10.png
+16:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_15.png
+16:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_20.png
+16:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_25.png
+16:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_30.png
+16:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_35.png
+16:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_40.png
+16:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_45.png
+16:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_50.png
+16:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_04_55.png
+17:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_00.png
+17:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_05.png
+17:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_10.png
+17:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_15.png
+17:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_20.png
+17:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_25.png
+17:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_30.png
+17:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_35.png
+17:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_40.png
+17:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_45.png
+17:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_50.png
+17:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_05_55.png
+18:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_00.png
+18:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_05.png
+18:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_10.png
+18:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_15.png
+18:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_20.png
+18:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_25.png
+18:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_30.png
+18:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_35.png
+18:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_40.png
+18:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_45.png
+18:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_50.png
+18:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_06_55.png
+19:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_00.png
+19:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_05.png
+19:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_10.png
+19:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_15.png
+19:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_20.png
+19:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_25.png
+19:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_30.png
+19:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_35.png
+19:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_40.png
+19:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_45.png
+19:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_50.png
+19:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_07_55.png
+20:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_00.png
+20:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_05.png
+20:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_10.png
+20:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_15.png
+20:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_20.png
+20:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_25.png
+20:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_30.png
+20:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_35.png
+20:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_40.png
+20:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_45.png
+20:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_50.png
+20:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_08_55.png
+21:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_00.png
+21:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_05.png
+21:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_10.png
+21:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_15.png
+21:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_20.png
+21:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_25.png
+21:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_30.png
+21:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_35.png
+21:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_40.png
+21:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_45.png
+21:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_50.png
+21:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_09_55.png
+22:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_00.png
+22:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_05.png
+22:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_10.png
+22:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_15.png
+22:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_20.png
+22:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_25.png
+22:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_30.png
+22:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_35.png
+22:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_40.png
+22:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_45.png
+22:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_50.png
+22:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_10_55.png
+23:00,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_00.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_00.png
+23:05,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_05.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_05.png
+23:10,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_10.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_10.png
+23:15,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_15.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_15.png
+23:20,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_20.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_20.png
+23:25,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_25.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_25.png
+23:30,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_30.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_30.png
+23:35,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_35.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_35.png
+23:40,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_40.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_40.png
+23:45,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_45.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_45.png
+23:50,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_50.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_50.png
+23:55,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_55.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\uhr_11_55.png
+um,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\um.png,
+vor,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\vor_zeit.png,
+vorgestern,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\vorgestern.png,
+vorher,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\vorhin.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\vorhin2.png
+vorhin,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\vorhin.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\vorhin2.png
+zuletzt,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\zuletzt.png,
+verspätet,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\zuspaet.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\zuspaetSW.png
+zu spät,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\zuspaet.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\zuspaetSW.png
+zwischendrin,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\zwischendrin.png,
+zwischendurch,,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Zeit\zwischendurch.png,
+,!,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_ausrufungszeichen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_ausrufungszeichen.png
+,:,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_doppelpunkt.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_doppelpunkt.png
+,?,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_fragezeichen.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_fragezeichen.png
+,",",,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_komma.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_komma.png
+,.,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_punkt.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_punkt.png
+,/,,,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_schraegstrich.png,METACOM_Symbole\Symbole_PNG\PNG_ohne_Rahmen\Buchstaben_Schreiben\_schraegstrich.png
