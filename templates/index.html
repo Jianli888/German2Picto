@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>German2Picto</title>
+    <link rel="stylesheet" href="static/text2picto.css"/>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+
+    <main>
+        <h1>German2Picto</h1>
+            <div id="webpage-description">
+                Willkommen bei German2Picto! <br>
+                Geben Sie unten einen deutschen Text ein, <br>
+                es werden Piktogramme ausgegeben, wenn Sie auf 'Übersetzen' klicken. <br>
+                Sie können durch Rechtsklick auf das übersetzte Piktogramm alternative Piktogramme auswählen, wenn verfügbar.<span style="color: pink;">❤</span>
+            </div>        
+    </main>
+    
+    <style>
+        #translation-container {
+            min-height: 100px;
+            border: 1px solid #ccc; /* For visibility */
+            margin-top: 20px; /* Spacing from other elements */
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <section id="input-section">
+            <div id="input-frame">
+                <textarea id="text-input" rows='4' cols='50' placeholder="Gib einen Text ein." class="grey-text" aria-label="Input text in German" spellcheck="true"></textarea>
+                <button id="translate-button" aria-label="Translate">Übersetzen</button>
+                <button id="clear-button" aria-label="Clear input">Eingabe löschen</button>
+
+            </div>
+        </section>
+
+        <section id="config-section">
+            <div class="flex-container">
+                <label for="size-slider">Bildgrösse</label>
+                <input type="range" id="size-slider" class="slider" aria-label="Adjust pictogram size">
+            </div>
+            
+            <div class="flex-container">
+                <label for="spacing-slider">Zeilenabstand</label>
+                <input type="range" id="spacing-slider" class="slider" aria-label="Adjust line spacing">
+            </div>
+            
+            <form action="translate" method="post">
+                <!-- Checkboxes for various configuration options -->
+                <input type="checkbox" name="use_bw" id="bw_pictos"> Schwarz-weisse Pictos<br>
+                <input type="checkbox" name="hide_text" id="hide_text"> Text ausblenden<br>
+                <input type="checkbox" name="use_lemmas" id="use_lemmas"> Ohne Flexion<br>
+                <input type="checkbox" name="use_upper" id="use_upper"> Grossbuchstaben<br>
+                <input type="checkbox" name="no_art" id="no_art"> Artikel ausblenden<br>
+                <input type="checkbox" name="no_prep" id="no_prep"> Präpositionen ausblenden<br>
+                <input type="checkbox" name="no_punct" id="no_punct"> Satzzeichen ausblenden<br>
+
+            </form>
+            </div>
+        </section>
+
+        <section id="pictogram-section">
+            <div id="scrollable-container" class="scrollable-container" aria-live="polite"></div>
+            <!-- Container for the pictograms -->
+            <div id="translation-container" aria-describedby="pictogram-description"></div>
+
+            <div id="context-menu" class="context-menu" style="display: none;">
+                <!-- Alternative pictograms will be added here dynamically -->
+            </div>
+              
+            <p id="pictogram-description" class="visually-hidden">Generated pictograms will be displayed here.</p>
+        </section>
+        
+        <section id="print-section">
+            <button id="print-button">Piktogramme drucken</button>
+        </section>
+    </main>
+
+    <footer>
+        <div id="contact-info">
+            <p>contact: jian.li@uzh.ch </p>
+        </div>
+    </footer>
+    
+    <script src="static/text2picto.js" defer></script>
+</body>
+
+
+</html>
+
+
