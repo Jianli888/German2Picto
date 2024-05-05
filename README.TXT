@@ -1,3 +1,15 @@
+# Contributors
+Here we acknowledge the contributions of those who have played a significant role in the development and maintenance of this project.
+
+- **Helen Schaller**
+  - GitHub: [Helen Schaller]( 
+  - Contributions: text-to-pictogram translator, database design, ...
+  
+- **Jian Li**
+  - GitHub: [Jian Li](https://github.com/Jianli888)
+  - Contributions: Front-end development, back-end development, webapp development.
+
+
 Files and their function:
 
 Webapp_German2Picto                 # contains code for text-to-pictogram translator with code for web application
@@ -32,7 +44,7 @@ Webapp_German2Picto                 # contains code for text-to-pictogram transl
 
 Platform on which the program is executable:
 operating system: Windows 10 Home, OS build 19044.1645
-programming environment: Python 3.9.6
+programming environment: Python 3.9.18
 dependencies: cf. requirements.txt
 
 Usage:
