@@ -1,0 +1,7 @@
+germanetpy==0.2.1
+numpy==1.21.4
+pandas==1.3.4
+Pillow==9.1.0
+spacy==3.7.4
+Flask==3.0.0
+gunicorn==20.1.0
