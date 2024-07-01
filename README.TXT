@@ -44,7 +44,7 @@ Webapp_German2Picto                 # contains code for text-to-pictogram transl
 
 Platform on which the program is executable:
 operating system: Windows 10 Home, OS build 19044.1645
-programming environment: Python 3.9.18
+programming environment: Python 3.11
 dependencies: cf. requirements.txt
 
 Usage:
