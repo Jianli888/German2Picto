@@ -2,12 +2,12 @@
 Here we acknowledge the contributions of those who have played a significant role in the development and maintenance of this project.
 
 - **Helen Schaller**
-  - GitHub: [Helen Schaller]( 
-  - Contributions: text-to-pictogram translator, database design, ...
+  - GitHub: [Helen Schaller](https://github.com/h-schaller)
+  - Contributions: synset-pictogram link creation, conception and implementation of German2Picto translator
   
 - **Jian Li**
   - GitHub: [Jian Li](https://github.com/Jianli888)
-  - Contributions: Front-end development, back-end development, webapp development.
+  - Contributions: front-end development, back-end development, webapp development.
 
 
 Files and their function:
@@ -26,18 +26,18 @@ Webapp_German2Picto                 # contains code for text-to-pictogram transl
 │   └── translator.py               # high-level class wrapping up process of text-to-pictogram translation
 ├── static 
 │   ├── data                        # data needed for text-to-pictogram translation
-│   │   ├── GN_V160                 # contains GermaNet data !!!You will need to obtain license first.
+│   │   ├── GN_V160                 # contains GermaNet data (you will need to obtain license first)
 │   │   │   └── ...
-│   │   ├── METACOM_Symbole         # contains METACOM pictograms !!!You will need to obtain license first.
+│   │   ├── METACOM_Symbole         # contains METACOM pictograms (you will need to obtain license first)
 │   │   │   └── ...
 │   │   ├── dictionary.csv          # look-up dictionary with direct links between tokens/lemmas and pictograms
 │   │   └── metacom_to_germanet.db  # database with pictogram-synset links
 │   ├── favcon.ico
 │   ├── text2picto.css
 │   ├── text2picto.js
-│   ├── German2Picto.png 
+│   └── German2Picto.png 
 ├── templates
-│   ├── index.html
+│   └── index.html
 ├── app.py                          # code for web application
 └── requirements.txt                # dependencies
 
